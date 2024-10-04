@@ -13,9 +13,6 @@ Hi! I'm Saurabh, a passionate **C++** and **Python** developer with a focus on b
 - **Machine Learning** and **Data Science** with Python.
 - Improving performance with **Low-level C++ optimizations**.
 
-### 🌐 Let's Connect
-- 🔗 [Portfolio](https://srbhp.github.io) 
-- 💬 Always open for collaboration on exciting open-source projects!
 
 <h3 align="left">Languages and Tools:</h3>
 
