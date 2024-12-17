@@ -20,8 +20,5 @@ Hi! I'm Saurabh, a passionate **C++** and **Python** developer with a focus on b
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srbhp&show_icons=true&locale=en" alt="srbhp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srbhp&" alt="srbhp" /></p>
-
-
 ---
 "Building solutions, one line of code at a time."
